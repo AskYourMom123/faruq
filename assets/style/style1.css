@@ -1,0 +1,27 @@
+body {
+  font-family: "PT Serif", serif;
+  color: white;
+}
+
+body h1 {
+  text-shadow: 2px 2px 3px black;
+}
+
+form {
+  width: 25%;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+form p {
+  color: grey;
+}
+
+form a {
+  color: white;
+  text-decoration: none;
+}
+
+form a:hover {
+  color: grey;
+}
